@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 body{
@@ -144,13 +144,13 @@ footer{
 }
 
 .form-info{
-    width: 50%;
+    width: 30%;
     height: 200px;
+
 }
 
 form{
     display: flex;
     justify-content: column;
     flex-direction: column;
-
 }
